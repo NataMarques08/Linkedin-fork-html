@@ -97,5 +97,30 @@
     padding: 2px;
     border: 1px solid #a8a8a8;
     border-radius: 10px;
- 
+    font-size: 12px;
+    text-align: center;
+}
+.caixa-ferramentas p{
+    color: #888;
+}
+.profile-box{
+    border-bottom: 1px solid #a8a8a8;
+}
+.profile-box img{
+    border-radius: 50%;
+    margin-top: 5px;
+}
+.analise-ferramenta{
+    border-bottom: 1px solid #bbbbbb;
+    padding-top: 10px;
+}
+.analise-ferramenta:hover{
+    background-color:  #ececec;
+}
+.seja-premium{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.seja-premium:hover{
+    background-color:  #ececec;
 }
